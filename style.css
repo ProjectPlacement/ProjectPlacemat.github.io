@@ -1,12 +1,23 @@
 .mainText
 {
-  left: 5%;
-  transform: translateY(25vh);
+    width:50%;
+    text-align: center;
+    margin:0 auto;
+    padding-top: 15%;
+  
   
 }
+
 .mainImage
 {
   width: 50%;
-  z-index: 0;
-  float: right;
+
+}
+
+.left {
+  float:left;
+}
+
+.right{
+  float:right;
 }
